@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactdemoapp/static/css/main.0cfe214a.css",
+    "main.js": "/reactdemoapp/static/js/main.a4f918f4.js",
+    "static/media/game.jpeg": "/reactdemoapp/static/media/game.dcc076f1d104970dbbf1.jpeg",
+    "static/media/about_test.jpg": "/reactdemoapp/static/media/about_test.d2671a779cc0da06fe05.jpg",
+    "static/media/web.jpg": "/reactdemoapp/static/media/web.5be0d7b183b3594b1bf5.jpg",
+    "static/media/software.png": "/reactdemoapp/static/media/software.12f653825d0543f34786.png",
+    "static/media/homeimg.svg": "/reactdemoapp/static/media/homeimg.a63b343b2e6573f6cc48a348b3e02f61.svg",
+    "static/media/App.png": "/reactdemoapp/static/media/App.76972d9721ec4a6d7a08.png",
+    "static/media/digital.webp": "/reactdemoapp/static/media/digital.4d350521dc444e664abb.webp",
+    "index.html": "/reactdemoapp/index.html",
+    "main.0cfe214a.css.map": "/reactdemoapp/static/css/main.0cfe214a.css.map",
+    "main.a4f918f4.js.map": "/reactdemoapp/static/js/main.a4f918f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cfe214a.css",
+    "static/js/main.a4f918f4.js"
+  ]
+}
